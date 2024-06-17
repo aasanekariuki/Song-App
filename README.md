@@ -25,7 +25,7 @@ SQLite
 
 #### Installation :
 
-git clone https://github.com/your-username/song-app.git
+git clone git@github.com:aasanekariuki/Song-App.git
 
 cd song-app
 
@@ -70,6 +70,7 @@ Main script that provides the CLI interface for interacting with the application
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2024.
+ 
 
 
 
